@@ -1,2 +1,11 @@
-# SauceDemo-Manual-Testing
-This Manual testing project contains test cases, test execution results, and bug reports for the SauceDemo web application (https://www.saucedemo.com/). The tests validate functionality, UI elements, and error handling across the login, products, product details, cart, checkout, and checkout complete pages for various user types.
+SauceDemo Manual Testing
+Project Overview
+This project contains manual testing test cases, test execution results, and bug reports for the SauceDemo web application.
+The project covers functional testing, UI testing, validation, error handling, and end-to-end checkout scenarios.
+Application Under Test
+Website: https://www.saucedemo.com/
+Tools Used
+Microsoft Excel – Test Cases & Test Execution
+Excel – Bug Reports
+Google Chrome – Browser
+Windows 11 – Operating System
