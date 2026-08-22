@@ -135,10 +135,11 @@ SauceDemo-Manual-Testing/
 ## Notes
 
 - All tests were executed using the `standard_user` account unless stated otherwise.
-- Certain user accounts have known issues — `problem_user` has incorrect product images, and `error_user` has cart issues.
-- Leading and trailing spaces in the password field are treated as part of the password input, which is correct behaviour for a password field.
-- No account lockout mechanism is implemented after multiple failed login attempts. This may be a security concern but was not classified as a bug due to lack of documented requirements.
+- Certain user accounts have known issues.
 - A consistent browser should be used for repeatable results.
-| Products Page | 23 | 21 | 2 | 0 |
+
+
+
+
 | Product Details Page | 6 | 6 | 0 | 0 |
 | Cart Page | 9 | 9 | 0 | 0 |
