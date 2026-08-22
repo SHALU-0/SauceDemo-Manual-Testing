@@ -129,7 +129,7 @@ SauceDemo-Manual-Testing/
     ├── SD_BUG_002_Product_Name_Format.png
     ├── SD_BUG_003_Backpack_Description_Syntax.png
     └── SD_BUG_004_Invalid_Input.png
-
+`````
 ---
 
 ## Notes
